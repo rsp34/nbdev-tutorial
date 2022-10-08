@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://rsp34.github.io/nbdev-tutorial"
+  description: "A repo to follow Jeremy Howard's nbdev tutorial."
+  repo-branch: main
+  repo-url: "https://github.com/rsp34/nbdev-tutorial"
